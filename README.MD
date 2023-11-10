@@ -57,6 +57,10 @@ pip install -r requirements.txt
 ```bash
 echo "BOT_TOKEN=bot_token" > .env
 ```
+- Запустите бота:
+```
+python3 main.py
+```
 - Найдите и активируйте бота в `telegram` стандартным способом.
 - Бот готов получать команду `/probe`
 
